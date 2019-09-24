@@ -45,7 +45,7 @@ while True:
 
 
                                              if way6 == "S":
-                                                    way7 = input("You have escaped the maze in: "+ str (numb_ofmoves)+"moves")
+                                                    way7 = input("You have escaped the maze in: "+ str (numb_ofmoves)+" moves")
 
 
 
